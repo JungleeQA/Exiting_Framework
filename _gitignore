@@ -1,0 +1,7 @@
+Reports/
+/target/
+target/
+/Reports/
+APIAutomationFramework/target/*
+APIAutomationFramework/Reports/*
+APIAutomationFramework/Logs/*

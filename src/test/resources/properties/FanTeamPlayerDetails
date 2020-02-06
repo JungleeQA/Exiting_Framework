@@ -1,0 +1,15 @@
+
+"players":[
+{"score":0,"playingStyleId":1,"seriesScore":0,"teamId":1,"name":"R Pant","playingStyleDesc":"WicketKeeper","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_1.png","id":271,"credit":8,"sportsId":1,"countryId":99},
+{"score":0,"playingStyleId":2,"seriesScore":0,"teamId":1,"name":"D Karthik","playingStyleDesc":"Batsman","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_1.png","id":246,"credit":8,"sportsId":1,"countryId":99},
+{"score":0,"playingStyleId":2,"seriesScore":0,"teamId":1,"name":"V Shankar","playingStyleDesc":"Batsman","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_1.png","id":1070,"credit":8,"sportsId":1,"countryId":99},
+{"score":0,"playingStyleId":3,"seriesScore":0,"teamId":1,"name":"M Shami","playingStyleDesc":"Bowler","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_1.png","id":229,"credit":8.5,"sportsId":1,"countryId":99},
+{"score":0,"playingStyleId":4,"seriesScore":0,"teamId":1,"name":"K Jadhav","playingStyleDesc":"All Rounder","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_1.png","id":237,"credit":8,"sportsId":1,"countryId":99},
+{"score":0,"playingStyleId":4,"seriesScore":0,"teamId":1,"name":"R Jadeja","playingStyleDesc":"All Rounder","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_1.png","id":227,"credit":8,"sportsId":1,"countryId":99},
+{"score":0,"playingStyleId":2,"seriesScore":0,"teamId":2,"name":"A Fernando","playingStyleDesc":"Batsman","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_2.png","id":6277,"credit":8,"sportsId":1,"countryId":200},
+{"score":0,"playingStyleId":2,"seriesScore":0,"teamId":2,"name":"L Thirimanne","playingStyleDesc":"Batsman","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_2.png","id":421,"credit":8.5,"sportsId":1,"countryId":200},
+{"score":0,"playingStyleId":3,"seriesScore":0,"teamId":2,"name":"J Vandersay","playingStyleDesc":"Bowler","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_2.png","id":457,"credit":7.5,"sportsId":1,"countryId":200},
+{"score":0,"playingStyleId":3,"seriesScore":0,"teamId":2,"name":"A Fernando","playingStyleDesc":"Bowler","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_2.png","id":452,"credit":8,"sportsId":1,"countryId":200},
+{"score":0,"playingStyleId":4,"seriesScore":0,"teamId":2,"name":"J Mendis","playingStyleDesc":"All Rounder","jerseyUrl":"https://d2cbroser6kssl.cloudfront.net/images/jerseys/howzat/jersey_2.png","id":2107,"credit":8,"sportsId":1,"countryId":200}
+]
+}

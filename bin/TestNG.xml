@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<!--Web browserName = chrome,firefox,iexplorer,safari -->
+<!--Msite browserName = apple,iphonesize,androidsize -->
+<!--M deviceName = Apple iphone 6,Nexus 5 -->
+
+<suite name="DataDriven" parallel="false" thread-count="1" verbose="10">
+	<listeners>
+		<listener class-name="com.Junglee.Listners.CustomListner"></listener>
+		<listener class-name="com.Junglee.Listners.AnnotationTransformer"></listener>
+		<listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+	</listeners>
+
+	<parameter name="deviceName" value="Apple iphone 6"></parameter>
+	<parameter name="Grid" value="OFF"></parameter>
+	<parameter name="GURL" value="http://192.168.99.100:12345/wd/hub"></parameter>
+	
+	
+	
+	
+	<test name="Howzatt API Testing">
+	<parameter name="WebDriverRequired" value="NO"></parameter>
+	<parameter name="RestProxy" value="YES"></parameter>
+	<parameter name="URL" value="https://www.howzat.com"></parameter>
+	
+	<packages>
+	<package name="com.Junglee.APITest.Howzat"></package>
+	</packages>
+	</test> 
+	
+	
+</suite>
